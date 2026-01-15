@@ -14,7 +14,7 @@ body {
 }
 
 a {
-    color: #EBB9CD;
+    color: #335DC8;
     text-decoration: none;
     -webkit-transition: all 1.5s ease;
     -moz-transition: all 1.5s ease;
@@ -82,9 +82,9 @@ default {
 }
 
 facts {
-    background-color: #F7EAEF;
+    background-color: #335DC8;
     border-bottom: 0px;
-    border-image: repeating-linear-gradient(to right, #EBB9CD, #F2E6EB) 2;
+    border-image: repeating-linear-gradient(to right, #335DC8, #335DC8) 2;
     border-left: 0px;
     border-right: 0px;
     border-top: 1px solid;
@@ -189,7 +189,7 @@ discog2 {
     line-height: 50px;
     margin-left: 10px;
     text-align: justify;
-    text-shadow: 2px 2px 0px #EBB9CD, -2px -2px 0px #F2E6EB;
+    text-shadow: 2px 2px 0px #246890, -2px -2px 0px #7497b0;
     text-transform: none;
     margin-top: 5px;
     margin-bottom: 10px;
