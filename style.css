@@ -1,15 +1,15 @@
 @font-face {
   font-family: "espresso";
-  src: url("http://burglary.neocities.org/MRF-%20fields%20of%20wildflowers.ttf");
+  src: url("https://burglary.neocities.org/MRF-%20fields%20of%20wildflowers.ttf");
 }
   
 @font-face {
   font-family: "burglary";
-  src: url("http://burglary.neocities.org/BEBAS___.TTF");
+  src: url("https://burglary.neocities.org/BEBAS___.TTF");
 }
 
 body {
-    background-image: url(http://burglary.neocities.org/bg.png);
+    background-image: url(https://burglary.neocities.org/bg.png);
     padding-top: 75px;
 }
 
@@ -33,11 +33,11 @@ a:hover {
 }
 
 html, body, a, a:hover {
-    cursor: url(http://i.imgur.com/ONVDMqu.png), default;
+    cursor: url(https://i.imgur.com/ONVDMqu.png), default;
 }
 
 .a {
-    background-image: url(http://i.imgur.com/breR4aU.png);
+    background-image: url(https://i.imgur.com/breR4aU.png);
     border-radius: 5px;
     box-shadow: 0px 0px 0px 0px #a3a3a3;
     height: 261px;
@@ -53,7 +53,7 @@ html, body, a, a:hover {
 }
 
 .b, .c, .d, .e {
-    background-image: url(http://i.imgur.com/breR4aU.png);
+    background-image: url(https://i.imgur.com/breR4aU.png);
     border-radius: 5px;
     box-shadow: 0px 0px 0px 0px #a3a3a3;
     display: none;
