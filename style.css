@@ -75,7 +75,7 @@ default {
     font-family: arial;
     font-size: 11px;
     letter-spacing: 0px;
-    line-height: 30px;
+    line-height: 12px;
     text-align: justify;
     text-shadow: 0px 0px 0px #7f7f7f;
     text-transform: none;
@@ -93,7 +93,7 @@ facts {
     font-family: abel;
     font-size: 10px;
     letter-spacing: 2px;
-    line-height: 30px;
+    line-height: 12px;
     text-align: justify;
     text-shadow: 1px 1px 1px #ccc;
     text-transform: uppercase;
@@ -106,7 +106,7 @@ facts1 {
     font-family: espresso;
     font-size: 25px;
     letter-spacing: 1px;
-    line-height: 30px;
+    line-height: 12px;
     margin-bottom: -5px;
     margin-top: 1px;
     text-shadow: 0px 0px 0px #9F90BD;
@@ -132,7 +132,7 @@ discog {
     font-family: espresso;
     font-size: 14px;
     letter-spacing: 0px;
-    line-height: 30px;
+    line-height: 12px;
     margin-bottom: -10px;
     margin-top: 1px;
     text-shadow: 0px 0px 0px #9F90BD;
