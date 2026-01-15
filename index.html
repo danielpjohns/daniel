@@ -75,7 +75,7 @@ $('body').append('<div id="fade"></div>');
 $('#fade').css({'filter' : 'alpha(opacity=80)'}).fadeIn();
 return false; 
 }); 
-$('a.close, #fade').live('click', function() { 
+$(document).on('click', 'a.close, #fade', function() {
 $('#fade , .popup_block').fadeOut(function() { 
 $('#fade, a.close').remove();
 }); 
@@ -106,14 +106,14 @@ return false;
 <br><b>pets:</b> <a href="https://imgur.com/a/MN28bHD" target="_blank"> gia & ziggy </a>
 <br><br>
 <b>ASSOCIATED ACTS</b>:<br>
-<a href="https://www.youtube.com/silverchair" target="_blank>silverchair (1992-2011) </a><br>
+<a href="https://www.youtube.com/silverchair" target="_blank">silverchair (1992-2011) </a><br>
 i can't believe it's not rock (2000)<br>
 the dissociatives (2003-2005)<br>
-<a href="https://www.youtube.com/@DREAMSTHEBAND" target="_blank>dreams (2018-current) </a><br>
-<a href="https://www.youtube.com/@DanielJohnsHQ" target="_blank>daniel johns (2013-current)</a>
+<a href="https://www.youtube.com/@DREAMSTHEBAND" target="_blank">dreams (2018-current) </a><br>
+<a href="https://www.youtube.com/@DanielJohnsHQ" target="_blank">daniel johns (2013-current)</a>
 <br><br>      
 <b>RECCOMENDED VIEWING</b>:<br>
-<a href="https://youtu.be/TCgx68aHzY8?si=mafPpfdmTBg3S6jZ" target="_blank>daniel johns on rove live, april 2022</a><br>
+<a href="https://youtu.be/TCgx68aHzY8?si=mafPpfdmTBg3S6jZ" target="_blank">daniel johns on rove live, april 2022</a><br>
 <a href="https://youtu.be/VCkOX3CNuvM?si=fsLz2s8shvXvwCtk" target="_blank">inside the mind of daniel johns, 3 part docuseries, 2022</a><br>
 <a href="https://youtu.be/qZsl387ka48?si=NEcu5AUMX7vatFiL" target="_blank">across the night, the making of diorama</a><br>
 <a href="https://youtu.be/CGCSQcPHRKA?si=_DB3Gfjzu14Iw1Ep" target="_blank">great australian albums - diorama</a><br>  
